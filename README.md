@@ -11,7 +11,7 @@ Pour utiliser WSL, suivez ces étapes :
     wsl --update
     ```
 
-2. Installez Ubuntu :
+2. Installez Ubuntu : (sert aussi de commande pour se connecter)
     ```bash
     wsl --install -d Ubuntu
     ```
