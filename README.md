@@ -58,3 +58,6 @@ Une fois le notebook lancé, recherchez dans le terminal le lien à utiliser. Il
 
 Sur Google Colab, sur la machine hôte, recherchez la possibilité de vous connecter à un environnement d'exécution local en cliquant sur la liste déroulante en haut à droite. Renseignez le lien obtenu dans votre terminal et exécutez le projet.
 
+
+Le google collab a exécuter :
+`https://colab.research.google.com/drive/1CPbHk7MD4SkSCuH4TWdCdwUGWmSsBKiQ?usp=sharing`.
