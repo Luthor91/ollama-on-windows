@@ -60,4 +60,5 @@ Sur Google Colab, sur la machine hôte, recherchez la possibilité de vous conne
 
 
 Le google collab a exécuter :
-`https://colab.research.google.com/drive/1CPbHk7MD4SkSCuH4TWdCdwUGWmSsBKiQ?usp=sharing`.
+
+https://colab.research.google.com/drive/1CPbHk7MD4SkSCuH4TWdCdwUGWmSsBKiQ?usp=sharing
